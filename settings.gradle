@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MediaPlayerStreamer_FF-RV_PLAY"
